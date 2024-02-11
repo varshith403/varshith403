@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/varshith403/static/css/main.e6c13ad2.css",
+    "main.js": "/varshith403/static/js/main.dc04822e.js",
+    "static/js/592.167abb64.chunk.js": "/varshith403/static/js/592.167abb64.chunk.js",
+    "index.html": "/varshith403/index.html",
+    "main.e6c13ad2.css.map": "/varshith403/static/css/main.e6c13ad2.css.map",
+    "main.dc04822e.js.map": "/varshith403/static/js/main.dc04822e.js.map",
+    "592.167abb64.chunk.js.map": "/varshith403/static/js/592.167abb64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.dc04822e.js"
+  ]
+}
